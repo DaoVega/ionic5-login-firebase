@@ -4,15 +4,16 @@
 
 export const environment = {
   production: false,
-  firebaseConfig: {
-    apiKey: 'AIzaSyDU-Ke0-hIuNwb7YkSLriY43X6fQFWJz_M',
-    authDomain: 'login-ng-b97ae.firebaseapp.com',
-    databaseURL: 'https://login-ng-b97ae.firebaseio.com',
-    projectId: 'login-ng-b97ae',
-    storageBucket: 'login-ng-b97ae.appspot.com',
-    messagingSenderId: '818340563584',
-    appId: '1:818340563584:web:52d4d25bdd3214363ff465',
-  },
+// For Firebase JS SDK v7.20.0 and later, measurementId is optional
+firebaseConfig : {
+  apiKey: "AIzaSyDJtw_boOzgPP90wEyGZbIXvSPTX2JZFxc",
+  authDomain: "pia-am-1dbd4.firebaseapp.com",
+  projectId: "pia-am-1dbd4",
+  storageBucket: "pia-am-1dbd4.appspot.com",
+  messagingSenderId: "98541651832",
+  appId: "1:98541651832:web:8095d01ab26e0c41782a8d",
+  measurementId: "G-KPG9G82W91"
+},
 };
 
 /*
